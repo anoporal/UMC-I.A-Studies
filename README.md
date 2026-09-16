@@ -3,7 +3,7 @@ Repositório criado com o fim de registrar o desenvolvimento técnico na matéri
 
 ---
 
-## Atividade 1: Lista de 50 exercícios [Python básico]
+## Atividade 1: Exercícios Python [Lista de 50 exercícios | Python básico]
 Para todos estarmos no mesmo nível de conhecimento técnico, foi passada uma lista para que pudéssemos treinar e evoluir.
 
 No arquivo de exercícios há:
@@ -12,7 +12,7 @@ No arquivo de exercícios há:
 - **Respostas** de acordo com as questões
 - **Justificativas** (tanto comentadas quanto em blocos de texto)
 ---
-## Atividade 2: Lista de 80 exercícios [Desenvolvendo com bibliotecas aprofundadas]
+## Atividade 2: Data Science [Lista de 80 exercícios | Desenvolvendo com bibliotecas aprofundadas]
 Agora, aumentando um pouco mais o nível, foi passada uma lista para aprimorarmos nossos conhecimentos com utilidades de 4 bibliotecas.
 
 No arquivo de exercícios há:
