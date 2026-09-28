@@ -47,8 +47,8 @@ No notebook há:
 - **Treinamento de modelos SVM** com diferentes funções de kernel (RBF e linear)
 ---
 ## Atividade 5: SUMMIT (Salvando as Eleições Norte-Americanas de 1936) *[Machine Learning]*
-Um dos maiores erros estatísticos conhecidos é a falha da análise de dados da eleição de 1936 dos Estados Unidos, que foi feita pela revista da época **The Literary Digest**. Tal atividade destrinchou o processo o problema em etapas de resolução, e foi aplicada para o **SUMMIT da UMC**.
 ### Arquivo: `SUMMIT_Breno_Maciel_6ºA_Matutino.ipynb`
+Um dos maiores erros estatísticos conhecidos é a falha da análise de dados da eleição de 1936 dos Estados Unidos, que foi feita pela revista da época **The Literary Digest**. Tal atividade destrinchou o processo o problema em etapas de resolução, e foi aplicada para o **SUMMIT da UMC**.
 
 No notebook há:
 * **Importação, estruturação e limpeza dos dados**
