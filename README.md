@@ -46,3 +46,15 @@ No notebook há:
 - **Modelagem com SVM**, tendo a separação dos dados de treino e teste
 - **Treinamento de modelos SVM** com diferentes funções de kernel (RBF e linear)
 ---
+## Atividade 5: SUMMIT (Salvando as Eleições Norte-Americanas de 1936) *[Machine Learning]*
+Um dos maiores erros estatísticos conhecidos é a falha da análise de dados da eleição de 1936 dos Estados Unidos, que foi feita pela revista da época **The Literary Digest**. Tal atividade destrinchou o processo o problema em etapas de resolução, e foi aplicada para o **SUMMIT da UMC**.
+### Arquivo: `SUMMIT_Breno_Maciel_6ºA_Matutino.ipynb`
+
+No notebook há:
+* **Importação, estruturação e limpeza dos dados**
+* Aplicação do modelo **Scikit-Learn**
+* **Documentação clara**, definida em etapas
+* **Gráficos**, plotados com *matplotlib*
+* **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
+* Aplicação do *Support Vector Machine* (**SVM)**
+---
